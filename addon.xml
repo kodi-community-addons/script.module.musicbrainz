@@ -11,7 +11,8 @@
   <extension point="xbmc.addon.metadata">
     <summary>Python bindings for Musicbrainz' NGS webservice</summary>
     <description>Kodi module library for the Python bindings for Musicbrainz' NGS webservice developed by alastair.</description>
-    <license></license>
+    <license>GNU GENERAL PUBLIC LICENSE Version 2</license>
+    <source>https://github.com/marcelveldt/script.module.musicbrainz</source>
     <platform>all</platform>
   </extension>
 </addon>
